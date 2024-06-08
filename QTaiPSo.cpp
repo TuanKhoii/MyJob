@@ -12,7 +12,7 @@ Input
 1 2
 2 4
 Output
-1/1
+1/1 
 */
 #include <iostream>
 using namespace std;
