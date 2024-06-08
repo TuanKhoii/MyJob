@@ -8,6 +8,11 @@ yêu cầu xây dựng các hàm quá tải sau:
 5. So sánh khác
 Viết một chương trình nhập vào 2 phân số, yêu cầu xuất như sau
     xuất tổng 2 phân số (sau khi rút gọn)
+Input
+1 2
+2 4
+Output
+1/1
 */
 #include <iostream>
 using namespace std;
